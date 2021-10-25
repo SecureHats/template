@@ -10,4 +10,3 @@ This SecureHats repository is used to organize project information and artifacts
 
 # Work to do
 - Default Access Permissions
-- 
